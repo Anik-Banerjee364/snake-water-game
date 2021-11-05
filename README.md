@@ -1,2 +1,2 @@
-# snake-water-game
+# snake-water-gun game
 python 
